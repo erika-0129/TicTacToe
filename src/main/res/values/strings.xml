@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Nole</string>
+    <string name="welcome">Welcome to…</string>
+    <string name="one_player">One Player</string>
+    <string name="two_player">Two Player</string>
+    <string name="designed_by">Designed by: Erika Avila</string>
+    <string name="player_one">Player One: X</string>
+    <string name="player_two">Player Two: O</string>
+    <string name="player_comp">Computer: O</string>
+    <string name="reset">Reset</string>
+    <string name="home">Home</string>
+</resources>
